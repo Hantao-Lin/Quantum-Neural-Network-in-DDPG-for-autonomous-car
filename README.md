@@ -13,3 +13,4 @@ This project is based on a groundbreaking study conducted by researchers at Nort
 # The Magics
 - [DDPG with DNN](https://github.com/Hantao-Lin/Quantum-Neural-Network-in-DDPG-for-autonomous-car/blob/main/donkey_car_dnn.py)
 - [DDPG with QNN](https://github.com/Hantao-Lin/Quantum-Neural-Network-in-DDPG-for-autonomous-car/blob/main/donkey_car_qnn_2.py)
+- [The Full Paper on All the Crazy Stuffs](https://github.com/Hantao-Lin/Quantum-Neural-Network-in-DDPG-for-autonomous-car/blob/main/the-crazy_paper.pdf)
