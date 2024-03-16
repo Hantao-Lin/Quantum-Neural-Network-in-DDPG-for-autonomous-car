@@ -11,4 +11,5 @@ This project is based on a groundbreaking study conducted by researchers at Nort
 - OpenAI Gym Framework & DonkeyCar Simulator: Utilizing the donkey-warehouse-v0 environment for realistic autonomous driving simulations.
 - Python 3.x: Employing the latest Python version for script development, supported by key packages like Gym, Numpy, PyTorch, and Pennylane.
 # The Magics
-- 
+- [DDPG with DNN](https://github.com/Hantao-Lin/Quantum-Neural-Network-in-DDPG-for-autonomous-car/blob/main/donkey_car_dnn.py)
+- [DDPG with QNN](https://github.com/Hantao-Lin/Quantum-Neural-Network-in-DDPG-for-autonomous-car/blob/main/donkey_car_qnn_2.py)
